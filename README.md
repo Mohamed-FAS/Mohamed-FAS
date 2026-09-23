@@ -11,10 +11,10 @@ I'm particularly interested in **Artificial Intelligence, Machine Learning, Retr
 * **Computer Vision** – real-time object tracking and speed estimation
 
 ## 🛠 Technical Skills
-**Languages**: Python, SQL, PySpark, C++, C#, C, Java
-**AI / ML**: Machine Learning, LLMs, RAG, NLP, embeddings, reranking, TensorFlow/Keras, scikit-learn
-**Data**: Pandas, NumPy, Hadoop, Spark MLlib
-**Tools**: Git, GitHub, Google Colab, Linux, n8n
+* **Languages**: Python, SQL, PySpark, C++, C#, C, Java
+* **AI / ML**: Machine Learning, LLMs, RAG, NLP, embeddings, reranking, TensorFlow/Keras, scikit-learn
+* **Data**: Pandas, NumPy, Hadoop, Spark MLlib
+* **Tools**: Git, GitHub, Google Colab, Linux, n8n
 
 ## 📫 Connect with me
 LinkedIn: [Mohamed Fazlan Abdul Salam](https://www.linkedin.com/in/mohamed-fazlan-abdul-salam/)
