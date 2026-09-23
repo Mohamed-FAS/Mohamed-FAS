@@ -10,26 +10,11 @@ I'm particularly interested in **Artificial Intelligence, Machine Learning, Retr
 * **Deep Learning** – brain tumour MRI classification using transfer learning
 * **Computer Vision** – real-time object tracking and speed estimation
 
-##🛠 Technical Skills
+## 🛠 Technical Skills
 **Languages**: Python, SQL, PySpark, C++, C#, C, Java
 **AI / ML**: Machine Learning, LLMs, RAG, NLP, embeddings, reranking, TensorFlow/Keras, scikit-learn
 **Data**: Pandas, NumPy, Hadoop, Spark MLlib
 **Tools**: Git, GitHub, Google Colab, Linux, n8n
 
-##📫 Connect with me
+## 📫 Connect with me
 LinkedIn: [Mohamed Fazlan Abdul Salam](https://www.linkedin.com/in/mohamed-fazlan-abdul-salam/)
-
-<!--
-**Mohamed-FAS/Mohamed-FAS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
